@@ -1,5 +1,5 @@
 # test
-Class assigment repostiory for SPHU 4160
+Class assignment repository for SPHU 4160
 
 
 
